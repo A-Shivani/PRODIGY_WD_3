@@ -1,4 +1,4 @@
-# TIC-TAC-TOE_WD_3
+# PRODIGY_WD_3
 Web based TIC TAC TOE application created using HTML,CSS and Javascript
 TASK-To build a TIC-TAC-TOE Application,you can use HTML,CSS and Javascript.By implementing functions
 to handle user clicks,track game state and check for winning conditions.You can create an interactive
